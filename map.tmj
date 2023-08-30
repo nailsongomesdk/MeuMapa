@@ -461,6 +461,23 @@
                  "width":32,
                  "x":64,
                  "y":544
+                }, 
+                {
+                 "height":30,
+                 "id":21,
+                 "name":"to-conference",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"Teste.tmj#from-office"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":257,
+                 "y":96
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -543,7 +560,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":20,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
