@@ -6523,7 +6523,7 @@
             0,
             0,
             0,
-            0,
+            56,
             0,
             0,
             0,
@@ -6610,6 +6610,7 @@
         },
         {
           "data": [
+            0,
             0,
             0,
             0,
@@ -7408,7 +7409,6 @@
             0,
             0,
             0,
-            0,
             0
           ],
           "height": 40,
@@ -7418,8 +7418,6 @@
           "type": "tilelayer",
           "visible": true,
           "width": 20,
-          "offsetx": 16,
-          "offsety": 5,
           "x": 0,
           "y": 0
         }
@@ -7435,7 +7433,7 @@
     {
       "columns": 8,
       "firstgid": 1,
-      "image": "terceiro_andar-chunk-1-e36ab562.png",
+      "image": "terceiro_andar-chunk-1-9a2e26cc.png",
       "imageheight": 256,
       "imagewidth": 256,
       "margin": 0,
